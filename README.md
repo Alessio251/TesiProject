@@ -16,3 +16,11 @@ https://alessio251.github.io/TesiProject/Capanna.jpg
 https://alessio251.github.io/TesiProject/Capanna.mp3
 https://alessio251.github.io/TesiProject/Menhir.jpg
 https://alessio251.github.io/TesiProject/Menhir.mp3
+https://alessio251.github.io/TesiProject/Altare1.jpg
+https://alessio251.github.io/TesiProject/Altare2.jpg
+https://alessio251.github.io/TesiProject/Altare3.jpg
+https://alessio251.github.io/TesiProject/Altare4.jpg
+https://alessio251.github.io/TesiProject/Altare1.mp3
+https://alessio251.github.io/TesiProject/Altare2.mp3
+https://alessio251.github.io/TesiProject/Altare3.mp3
+https://alessio251.github.io/TesiProject/Altare4.mp3
