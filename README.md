@@ -8,3 +8,9 @@ https://alessio251.github.io/TesiProject/Prima1.mp3
 https://alessio251.github.io/TesiProject/Prima2.mp3
 https://alessio251.github.io/TesiProject/LastraAltare.jpg
 https://alessio251.github.io/TesiProject/LastraAltare.mp3
+https://alessio251.github.io/TesiProject/Eneolitico1.jpg
+https://alessio251.github.io/TesiProject/Eneolitico2.jpg
+https://alessio251.github.io/TesiProject/Eneolitico1.mp3
+https://alessio251.github.io/TesiProject/Eneolitico2.mp3
+https://alessio251.github.io/TesiProject/Capanna.jpg
+https://alessio251.github.io/TesiProject/Capanna.mp3
